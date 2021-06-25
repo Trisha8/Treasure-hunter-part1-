@@ -1,0 +1,13 @@
+class Riddle{
+
+constructor(){
+    
+}
+
+
+
+
+
+
+
+}
